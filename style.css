@@ -1,0 +1,25 @@
+#main-title {
+  color: darkblue;
+}
+
+.highlight {
+  color: white;
+  background-color: darkgreen;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.style-one { 
+    color: navy; 
+    font-size: 2rem;
+}
+
+.style-two {
+     color: teal;
+      font-style: italic; 
+}
+
+.style-three { 
+    color: darkorange;
+    font-weight: bold; 
+}
